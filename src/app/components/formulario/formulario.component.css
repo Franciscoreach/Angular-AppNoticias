@@ -1,0 +1,21 @@
+.jumbotron {
+    border-radius: 10%;
+    border: 2px solid orangered; 
+}
+
+.form-control {
+    border: 1px solid orangered; /* Color y grosor del borde */
+    border-radius: 10%; /* Redondeo del borde */
+}
+
+.heading{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn{
+    font-size: 1.5rem;
+}
